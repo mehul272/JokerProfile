@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\fontawesome-free-5.15.3-web\\fontawesome-free-5.15.3-web\\webfonts"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "profile"
+    }
+}
